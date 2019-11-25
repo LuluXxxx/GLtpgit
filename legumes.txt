@@ -1,3 +1,4 @@
 aubergine
 courgette
 tomate
+salade
