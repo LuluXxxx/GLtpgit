@@ -3,3 +3,4 @@ banane
 orange
 kiwi
 kaki
+litchi
